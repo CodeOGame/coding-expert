@@ -11,12 +11,14 @@ The goal of this project is to have in a single place all possible algorithms an
 ## Contents
 Our content is divided by programming language. Please create an issue if you wish to add code in a language that we don't currently have here.
 
-* [Java](/Java/README.md)
-* [Python](/Python/README.md)
-* [Javascript](/Javascript/README.md)
-* [C](/C/README.md)
-* [C++](/C++/README.md)
-* [C#](/C#/README.md)
+* [Java](/java/Readme.md)
+* [Python](/python/Readme.md)
+* [Javascript](/javascript/Readme.md)
+* [C](/c/Readme.md)
+* [C++](/c++/Readme.md)
+* [C#](/c#/Readme.md)
+* [Go](/golang/Readme.md)
+* [Rust](/rust/Readme.md)
 
 ## Contributing Guidelines
 A good step-by-step is described below. There are two possible situations: 
