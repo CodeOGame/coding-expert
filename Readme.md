@@ -1,6 +1,5 @@
 <p align="center">
     <img src="https://i.imgur.com/rwEgByj.png"><br>
-    <img src="https://img.shields.io/github/license/CodeOGame/coding-expert?style=flat">
     <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CodeOGame/coding-expert">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/CodeOGame/coding-expert">
