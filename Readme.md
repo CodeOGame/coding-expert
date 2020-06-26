@@ -27,7 +27,7 @@ A good step-by-step is described below. There are two possible situations:
 
 Make sure your code works before submitting it :D 
 
-1. Fork it (https://github.com/tesseractcoding/neoalgo/fork)
+1. Fork it (https://github.com/CodeOGame/coding-expert/fork)
 2. Create your branch __SEE BELOW MORE INFORMATION__ (git checkout -b fooBar)
 3. Commit your changes (git commit -am 'Add some fooBar')
 4. Push to the branch (git push origin fooBar)
