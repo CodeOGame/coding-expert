@@ -1,5 +1,5 @@
 print("Enter the elements of the list to be sorted: ")
-list = [int(x) for x in input().split(" ")]          # Space seperated input
+list = [int(x) for x in input().split(" ")]          # Space separated input
 for i in range (len(list)-1):    
     for j in range (len(list)-1):
         if (list[j] > list[j+1]):         #Checking if current element greater than the next element
